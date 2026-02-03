@@ -95,11 +95,7 @@ The UAV operates at a fixed altitude and dynamically adjusts its horizontal traj
 ---
 
 ## 👨‍🎓 Authors
-
-- Dr. Rajkishor Kumar  
-- Bhuvan Sonawane  
-- **Dhruv Maheshwari**  
-- Nimish Gulghane  
+- **Dhruv Maheshwari** 
 
 Department of Electronics and Communication Engineering  
 Vellore Institute of Technology, Vellore, India
@@ -123,3 +119,4 @@ This work was developed as part of academic research at VIT Vellore and aims to 
 ## 📬 Contact
 
 For queries or collaboration, feel free to connect via GitHub or LinkedIn.
+
